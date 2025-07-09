@@ -12,7 +12,7 @@ The **Wardrobe Wizard** is a mobile-first application that helps users manage th
 
 Key features include:
 - Clothing item cataloging with tags, images, and seasonal suggestions
-- Outfit recommendations based on weather, occasion, and user profile
+- Outfit recommendations based on user profile and user recommendations
 - Personalized UI/UX for a seamless, stylish experience
 
 ## Tech Stack  
@@ -21,7 +21,7 @@ Key features include:
 - **Version Control & CI/CD:** GitLab  
 
 ## Development Highlights  
-- Developed and styled custom components for core screens (Home, Add Outfit, Closet, Calendar) with an emphasis on visual aesthetics and accessibility.
+- Developed and styled custom components for core screens (Home, Add Outfit, Closet) with an emphasis on visual aesthetics and accessibility.
 - Integrated Firebase Firestore for real-time storage and retrieval of wardrobe data.
 - Configured user authentication and image uploads to Firebase Storage.
 - Utilized GitLab’s issue boards and milestone tracking for Agile task management and collaboration.
