@@ -27,4 +27,4 @@ Key features include:
 - Utilized GitLab’s issue boards and milestone tracking for Agile task management and collaboration.
 
 ## Collaboration Note  
-This project was originally hosted in a shared **GitLab repository**. The file currently resides in this standalone location, and historical commit contributions from the other three team members are **not visible** here due to the repository transfer. However, all members actively contributed to development, testing,
+This project was originally hosted in a shared **GitLab repository**. The file currently resides in this standalone location, and historical commit contributions from the other three team members are **not visible** here due to the repository transfer. However, all members actively contributed to development and testing. 
